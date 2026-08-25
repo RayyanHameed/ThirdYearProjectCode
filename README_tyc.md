@@ -2,7 +2,7 @@
 
 Final year (BSc) project code — Queen Mary University of London.
 
-**Author:** Mohammad Rayyan Hameed (231172804)
+**Author:** Rayyan Hameed
 **Supervisor:** Dr Kostas Papafitsoros
 
 The full written report is included in this repository as a PDF and gives the complete derivations, proofs, and results; this README summarises what the code does and how to run it.
